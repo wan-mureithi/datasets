@@ -1,0 +1,1228 @@
+,indicator_group,year,value,indicator_name,source_comment,country,indicator_units,source_name,category_name,sub_category
+0,5th percentile,2010.0,3747.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1,Weighted average,2010.0,5123.63,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+2,95th percentile,2010.0,8312.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+3,5th percentile,2011.0,2887.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+4,Weighted average,2011.0,4391.77,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+5,95th percentile,2011.0,8199.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+6,5th percentile,2012.0,2304.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+7,Weighted average,2012.0,3343.29,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+8,95th percentile,2012.0,7120.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+9,5th percentile,2013.0,1883.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+10,Weighted average,2013.0,2934.5,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+11,95th percentile,2013.0,5914.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+12,5th percentile,2014.0,1576.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+13,Weighted average,2014.0,2651.67,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+14,95th percentile,2014.0,5709.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+15,5th percentile,2015.0,1336.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+16,Weighted average,2015.0,2016.3,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+17,95th percentile,2015.0,4477.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+18,5th percentile,2016.0,1142.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+19,Weighted average,2016.0,1833.12,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+20,95th percentile,2016.0,3602.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+21,5th percentile,2017.0,928.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+22,Weighted average,2017.0,1585.96,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+23,95th percentile,2017.0,3324.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+24,5th percentile,2018.0,893.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+25,Weighted average,2018.0,1355.13,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+26,95th percentile,2018.0,3204.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+27,5th percentile,2019.0,797.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+28,Weighted average,2019.0,1119.58,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+29,95th percentile,2019.0,2632.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+30,5th percentile,2020.0,635.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+31,Weighted average,2020.0,983.28,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+32,95th percentile,2020.0,2601.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+33,5th percentile,2021.0,618.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+34,Weighted average,2021.0,917.06,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+35,95th percentile,2021.0,2095.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+36,5th percentile,2022.0,569.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+37,Weighted average,2022.0,876.4,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+38,95th percentile,2022.0,1878.0,Total installed cost ,Fig 3.3,, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+39,,2010.0,7749.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+40,,2010.0,4104.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+41,,2010.0,6137.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+42,,2010.0,4157.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+43,,2010.0,5667.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+44,,2010.0,5811.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+45,,2010.0,,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+46,,2010.0,,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+47,,2010.0,10089.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+48,,2010.0,5241.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+49,,2010.0,,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+50,,2010.0,,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+51,,2010.0,6634.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+52,,2010.0,5142.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+53,,2010.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+54,,2011.0,7603.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+55,,2011.0,3816.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+56,,2011.0,6274.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+57,,2011.0,3306.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+58,,2011.0,3491.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+59,,2011.0,5446.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+60,,2011.0,6093.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+61,,2011.0,,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+62,,2011.0,6621.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+63,,2011.0,3661.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+64,,2011.0,,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+65,,2011.0,5522.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+66,,2011.0,5273.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+67,,2011.0,5039.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+68,,2011.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+69,,2012.0,5507.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+70,,2012.0,3076.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+71,,2012.0,5549.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+72,,2012.0,2627.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+73,,2012.0,3063.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+74,,2012.0,2884.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+75,,2012.0,4396.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+76,,2012.0,,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+77,,2012.0,2570.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+78,,2012.0,3016.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+79,,2012.0,,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+80,,2012.0,,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+81,,2012.0,3120.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+82,,2012.0,4955.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+83,,2012.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+84,,2013.0,3232.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+85,,2013.0,2375.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+86,,2013.0,3641.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+87,,2013.0,2252.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+88,,2013.0,3153.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+89,,2013.0,2284.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+90,,2013.0,3756.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+91,,2013.0,,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+92,,2013.0,2987.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+93,,2013.0,2591.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+94,,2013.0,,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+95,,2013.0,4501.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+96,,2013.0,2587.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+97,,2013.0,4392.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+98,,2013.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+99,,2014.0,3374.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+100,,2014.0,1978.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+101,,2014.0,2658.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+102,,2014.0,1795.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+103,,2014.0,2140.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+104,,2014.0,2212.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+105,,2014.0,3443.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+106,,2014.0,,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+107,,2014.0,2481.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+108,,2014.0,2598.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+109,,2014.0,,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+110,,2014.0,,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+111,,2014.0,2180.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+112,,2014.0,3237.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+113,,2014.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+114,,2015.0,2509.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+115,,2015.0,1528.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+116,,2015.0,1749.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+117,,2015.0,1436.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+118,,2015.0,1458.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+119,,2015.0,,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+120,,2015.0,2491.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+121,,2015.0,,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+122,,2015.0,2346.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+123,,2015.0,1340.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+124,,2015.0,,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+125,,2015.0,,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+126,,2015.0,1715.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+127,,2015.0,2885.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+128,,2015.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+129,,2016.0,2160.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+130,,2016.0,1384.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+131,,2016.0,1481.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+132,,2016.0,1303.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+133,,2016.0,1255.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+134,,2016.0,,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+135,,2016.0,2734.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+136,,2016.0,1287.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+137,,2016.0,2315.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+138,,2016.0,,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+139,,2016.0,1757.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+140,,2016.0,,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+141,,2016.0,1643.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+142,,2016.0,2492.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+143,,2016.0,2524.0,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+144,,2017.0,2211.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+145,,2017.0,1298.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+146,,2017.0,1391.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+147,,2017.0,1250.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+148,,2017.0,1252.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+149,,2017.0,1091.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+150,,2017.0,2480.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+151,,2017.0,1736.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+152,,2017.0,1774.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+153,,2017.0,,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+154,,2017.0,1410.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+155,,2017.0,1375.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+156,,2017.0,1421.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+157,,2017.0,2101.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+158,,2017.0,3219.0,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+159,,2018.0,1705.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+160,,2018.0,987.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+161,,2018.0,1205.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+162,,2018.0,1249.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+163,,2018.0,889.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+164,,2018.0,976.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+165,,2018.0,2357.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+166,,2018.0,1310.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+167,,2018.0,1488.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+168,,2018.0,,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+169,,2018.0,1353.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+170,,2018.0,1507.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+171,,2018.0,1528.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+172,,2018.0,1737.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+173,,2018.0,,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+174,,2019.0,1403.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+175,,2019.0,891.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+176,,2019.0,1098.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+177,,2019.0,1008.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+178,,2019.0,694.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+179,,2019.0,931.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+180,,2019.0,2322.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+181,,2019.0,1258.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+182,,2019.0,1405.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+183,,2019.0,860.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+184,,2019.0,1033.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+185,,2019.0,977.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+186,,2019.0,1142.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+187,,2019.0,1369.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+188,,2019.0,1183.0,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+189,,2020.0,1176.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+190,,2020.0,721.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+191,,2020.0,1045.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+192,,2020.0,776.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+193,,2020.0,661.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+194,,2020.0,866.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+195,,2020.0,2031.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+196,,2020.0,1246.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+197,,2020.0,1052.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+198,,2020.0,845.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+199,,2020.0,917.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+200,,2020.0,948.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+201,,2020.0,937.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+202,,2020.0,1241.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+203,,2020.0,1052.0,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+204,,2021.0,1095.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+205,,2021.0,672.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+206,,2021.0,865.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+207,,2021.0,742.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+208,,2021.0,631.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+209,,2021.0,840.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+210,,2021.0,1812.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+211,,2021.0,1094.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+212,,2021.0,1006.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+213,,2021.0,873.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+214,,2021.0,867.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+215,,2021.0,1107.0,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+216,,2021.0,907.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+217,,2021.0,1162.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+218,,2021.0,739.0,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+219,,2022.0,923.0,Utility-scale solar PV total installed cost,Figure 3.4,Australia,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+220,,2022.0,715.0,Utility-scale solar PV total installed cost,Figure 3.4,China,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+221,,2022.0,1157.0,Utility-scale solar PV total installed cost,Figure 3.4,France,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+222,,2022.0,996.0,Utility-scale solar PV total installed cost,Figure 3.4,Germany,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+223,,2022.0,640.0,Utility-scale solar PV total installed cost,Figure 3.4,India,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+224,,2022.0,771.0,Utility-scale solar PV total installed cost,Figure 3.4,Italy,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+225,,2022.0,1905.0,Utility-scale solar PV total installed cost,Figure 3.4,Japan,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+226,,2022.0,1221.0,Utility-scale solar PV total installed cost,Figure 3.4,Netherlands,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+227,,2022.0,1338.0,Utility-scale solar PV total installed cost,Figure 3.4,Republic of Korea,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+228,,2022.0,778.0,Utility-scale solar PV total installed cost,Figure 3.4,Spain,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+229,,2022.0,690.0,Utility-scale solar PV total installed cost,Figure 3.4,Türkiye,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+230,,2022.0,,Utility-scale solar PV total installed cost,Figure 3.4,Ukraine,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+231,,2022.0,910.0,Utility-scale solar PV total installed cost,Figure 3.4,United Kingdom,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+232,,2022.0,1119.0,Utility-scale solar PV total installed cost,Figure 3.4,United States,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+233,,2022.0,1167.0,Utility-scale solar PV total installed cost,Figure 3.4,Viet Nam,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+234,,2022.0,1.22967033,Utility-scale solar PV total installed cost,Figure 3.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+235,,2022.0,1.212351029,Utility-scale solar PV total installed cost,Figure 3.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+236,Modules,,378.0,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+237,Inverters,,108.3,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+238,Racking and mounting,,105.0,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+239,Grid connection,,108.6,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+240,Cabling/ wiring,,48.0,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+241,Safety and security,,21.2,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+242,Monitoring and control,,15.8,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+243,Mechanical installation,,519.6,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+244,Electrical installation,,324.8,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+245,Inspection,,45.6,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+246,Margin,,128.8,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+247,Financing costs,,17.0,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+248,System design,,3.3,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+249,Permitting,,25.7,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+250,Incentive application,,44.1,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+251,Customer acquisition,,11.6,Total installed cost ,Fig. 3.6,Japan, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+252,Modules,,548.2,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+253,Inverters,,165.3,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+254,Racking and mounting,,99.2,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+255,Grid connection,,209.6,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+256,Cabling/ wiring,,79.6,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+257,Safety and security,,19.5,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+258,Monitoring and control,,9.0,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+259,Mechanical installation,,159.2,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+260,Electrical installation,,139.9,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+261,Inspection,,20.4,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+262,Margin,,167.0,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+263,Financing costs,,6.5,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+264,System design,,23.3,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+265,Permitting,,37.6,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+266,Incentive application,,20.7,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+267,Customer acquisition,,5.2,Total installed cost ,Fig. 3.6,Russian Federation, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+268,Modules,,430.5,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+269,Inverters,,83.0,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+270,Racking and mounting,,198.6,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+271,Grid connection,,158.4,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+272,Cabling/ wiring,,29.7,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+273,Safety and security,,55.6,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+274,Monitoring and control,,5.7,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+275,Mechanical installation,,94.7,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+276,Electrical installation,,83.2,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+277,Inspection,,30.7,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+278,Margin,,171.5,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+279,Financing costs,,57.2,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+280,System design,,9.3,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+281,Permitting,,2.7,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+282,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+283,Customer acquisition,,8.4,Total installed cost ,Fig. 3.6,Cyprus, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+284,Modules,,300.2,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+285,Inverters,,40.6,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+286,Racking and mounting,,39.2,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+287,Grid connection,,45.5,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+288,Cabling/ wiring,,50.3,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+289,Safety and security,,16.1,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+290,Monitoring and control,,4.0,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+291,Mechanical installation,,277.7,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+292,Electrical installation,,167.5,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+293,Inspection,,31.6,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+294,Margin,,110.9,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+295,Financing costs,,117.1,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+296,System design,,19.4,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+297,Permitting,,111.5,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+298,Incentive application,,29.0,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+299,Customer acquisition,,4.0,Total installed cost ,Fig. 3.6,Ireland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+300,Modules,,444.9,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+301,Inverters,,88.9,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+302,Racking and mounting,,121.3,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+303,Grid connection,,115.1,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+304,Cabling/ wiring,,71.1,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+305,Safety and security,,70.8,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+306,Monitoring and control,,12.2,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+307,Mechanical installation,,39.8,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+308,Electrical installation,,46.1,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+309,Inspection,,20.4,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+310,Margin,,137.6,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+311,Financing costs,,10.1,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+312,System design,,6.1,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+313,Permitting,,63.1,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+314,Incentive application,,24.0,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+315,Customer acquisition,,5.2,Total installed cost ,Fig. 3.6,Hungary, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+316,Modules,,299.5,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+317,Inverters,,51.4,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+318,Racking and mounting,,76.1,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+319,Grid connection,,81.3,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+320,Cabling/ wiring,,62.6,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+321,Safety and security,,44.2,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+322,Monitoring and control,,13.6,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+323,Mechanical installation,,98.9,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+324,Electrical installation,,64.8,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+325,Inspection,,14.4,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+326,Margin,,159.8,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+327,Financing costs,,91.5,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+328,System design,,27.4,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+329,Permitting,,93.4,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+330,Incentive application,,34.1,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+331,Customer acquisition,,43.6,Total installed cost ,Fig. 3.6,South Africa, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+332,Modules,,350.0,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+333,Inverters,,42.0,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+334,Racking and mounting,,58.2,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+335,Grid connection,,57.6,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+336,Cabling/ wiring,,24.0,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+337,Safety and security,,15.0,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+338,Monitoring and control,,3.4,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+339,Mechanical installation,,126.4,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+340,Electrical installation,,122.1,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+341,Inspection,,33.9,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+342,Margin,,245.3,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+343,Financing costs,,39.2,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+344,System design,,23.0,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+345,Permitting,,64.9,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+346,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+347,Customer acquisition,,21.1,Total installed cost ,Fig. 3.6,Croatia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+348,Modules,,440.8,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+349,Inverters,,69.4,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+350,Racking and mounting,,116.2,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+351,Grid connection,,99.8,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+352,Cabling/ wiring,,35.5,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+353,Safety and security,,28.9,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+354,Monitoring and control,,7.1,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+355,Mechanical installation,,111.6,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+356,Electrical installation,,97.5,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+357,Inspection,,17.2,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+358,Margin,,150.0,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+359,Financing costs,,10.2,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+360,System design,,12.4,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+361,Permitting,,15.8,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+362,Incentive application,,3.1,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+363,Customer acquisition,,6.0,Total installed cost ,Fig. 3.6,Netherlands, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+364,Modules,,269.2,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+365,Inverters,,45.3,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+366,Racking and mounting,,89.7,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+367,Grid connection,,84.3,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+368,Cabling/ wiring,,25.7,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+369,Safety and security,,30.6,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+370,Monitoring and control,,3.2,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+371,Mechanical installation,,142.1,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+372,Electrical installation,,125.1,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+373,Inspection,,45.0,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+374,Margin,,199.9,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+375,Financing costs,,82.7,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+376,System design,,13.9,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+377,Permitting,,3.9,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+378,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+379,Customer acquisition,,12.2,Total installed cost ,Fig. 3.6,Greece, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+380,Modules,,251.5,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+381,Inverters,,41.0,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+382,Racking and mounting,,79.5,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+383,Grid connection,,78.9,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+384,Cabling/ wiring,,62.7,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+385,Safety and security,,3.3,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+386,Monitoring and control,,2.5,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+387,Mechanical installation,,201.4,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+388,Electrical installation,,140.7,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+389,Inspection,,14.5,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+390,Margin,,168.4,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+391,Financing costs,,8.2,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+392,System design,,7.3,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+393,Permitting,,64.1,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+394,Incentive application,,28.6,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+395,Customer acquisition,,4.5,Total installed cost ,Fig. 3.6,France, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+396,Modules,,449.5,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+397,Inverters,,65.2,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+398,Racking and mounting,,124.7,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+399,Grid connection,,73.4,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+400,Cabling/ wiring,,28.7,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+401,Safety and security,,33.7,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+402,Monitoring and control,,7.8,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+403,Mechanical installation,,98.9,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+404,Electrical installation,,92.7,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+405,Inspection,,10.4,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+406,Margin,,112.7,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+407,Financing costs,,6.2,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+408,System design,,12.2,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+409,Permitting,,6.9,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+410,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+411,Customer acquisition,,24.5,Total installed cost ,Fig. 3.6,Denmark, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+412,Modules,,400.9,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+413,Inverters,,74.3,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+414,Racking and mounting,,84.4,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+415,Grid connection,,77.4,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+416,Cabling/ wiring,,63.3,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+417,Safety and security,,26.3,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+418,Monitoring and control,,13.8,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+419,Mechanical installation,,160.2,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+420,Electrical installation,,25.4,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+421,Inspection,,7.2,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+422,Margin,,115.6,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+423,Financing costs,,13.8,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+424,System design,,26.8,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+425,Permitting,,6.0,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+426,Incentive application,,16.2,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+427,Customer acquisition,,7.1,Total installed cost ,Fig. 3.6,United States, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+428,Modules,,264.7,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+429,Inverters,,34.8,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+430,Racking and mounting,,101.7,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+431,Grid connection,,106.4,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+432,Cabling/ wiring,,45.7,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+433,Safety and security,,31.8,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+434,Monitoring and control,,11.9,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+435,Mechanical installation,,105.5,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+436,Electrical installation,,109.4,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+437,Inspection,,19.5,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+438,Margin,,149.3,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+439,Financing costs,,11.5,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+440,System design,,18.5,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+441,Permitting,,26.6,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+442,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+443,Customer acquisition,,12.3,Total installed cost ,Fig. 3.6,Poland, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+444,Modules,,292.6,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+445,Inverters,,40.6,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+446,Racking and mounting,,71.8,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+447,Grid connection,,77.7,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+448,Cabling/ wiring,,45.0,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+449,Safety and security,,11.2,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+450,Monitoring and control,,6.0,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+451,Mechanical installation,,105.9,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+452,Electrical installation,,86.4,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+453,Inspection,,19.1,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+454,Margin,,161.4,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+455,Financing costs,,7.3,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+456,System design,,15.0,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+457,Permitting,,28.1,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+458,Incentive application,,7.8,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+459,Customer acquisition,,20.0,Total installed cost ,Fig. 3.6,Germany, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+460,Modules,,241.1,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+461,Inverters,,43.1,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+462,Racking and mounting,,74.6,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+463,Grid connection,,117.4,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+464,Cabling/ wiring,,83.6,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+465,Safety and security,,5.1,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+466,Monitoring and control,,13.3,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+467,Mechanical installation,,108.4,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+468,Electrical installation,,106.2,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+469,Inspection,,29.9,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+470,Margin,,80.9,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+471,Financing costs,,8.0,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+472,System design,,7.3,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+473,Permitting,,38.0,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+474,Incentive application,,3.6,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+475,Customer acquisition,,20.5,Total installed cost ,Fig. 3.6,Portugal, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+476,Modules,,300.3,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+477,Inverters,,53.2,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+478,Racking and mounting,,70.9,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+479,Grid connection,,37.8,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+480,Cabling/ wiring,,24.2,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+481,Safety and security,,39.0,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+482,Monitoring and control,,5.4,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+483,Mechanical installation,,125.3,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+484,Electrical installation,,74.6,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+485,Inspection,,49.3,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+486,Margin,,105.6,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+487,Financing costs,,21.1,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+488,System design,,14.1,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+489,Permitting,,21.1,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+490,Incentive application,,23.5,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+491,Customer acquisition,,0.0,Total installed cost ,Fig. 3.6,Slovenia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+492,Modules,,329.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+493,Inverters,,78.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+494,Racking and mounting,,67.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+495,Grid connection,,96.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+496,Cabling/ wiring,,92.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+497,Safety and security,,10.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+498,Monitoring and control,,16.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+499,Mechanical installation,,34.7,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+500,Electrical installation,,24.8,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+501,Inspection,,44.7,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+502,Margin,,84.4,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+503,Financing costs,,28.8,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+504,System design,,14.9,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+505,Permitting,,29.8,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+506,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+507,Customer acquisition,,11.9,Total installed cost ,Fig. 3.6,Indonesia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+508,Modules,,389.7,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+509,Inverters,,53.4,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+510,Racking and mounting,,89.0,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+511,Grid connection,,71.0,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+512,Cabling/ wiring,,45.0,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+513,Safety and security,,14.3,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+514,Monitoring and control,,10.9,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+515,Mechanical installation,,71.9,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+516,Electrical installation,,63.4,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+517,Inspection,,19.2,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+518,Margin,,84.3,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+519,Financing costs,,5.6,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+520,System design,,18.7,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+521,Permitting,,7.0,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+522,Incentive application,,13.2,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+523,Customer acquisition,,4.3,Total installed cost ,Fig. 3.6,Canada, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+524,Modules,,308.3,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+525,Inverters,,47.2,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+526,Racking and mounting,,101.6,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+527,Grid connection,,74.7,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+528,Cabling/ wiring,,50.6,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+529,Safety and security,,26.1,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+530,Monitoring and control,,15.8,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+531,Mechanical installation,,65.5,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+532,Electrical installation,,35.2,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+533,Inspection,,14.1,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+534,Margin,,123.7,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+535,Financing costs,,20.5,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+536,System design,,13.2,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+537,Permitting,,12.1,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+538,Incentive application,,36.7,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+539,Customer acquisition,,12.8,Total installed cost ,Fig. 3.6,Mexico, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+540,Modules,,372.3,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+541,Inverters,,62.8,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+542,Racking and mounting,,55.4,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+543,Grid connection,,76.4,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+544,Cabling/ wiring,,102.9,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+545,Safety and security,,8.2,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+546,Monitoring and control,,7.6,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+547,Mechanical installation,,58.7,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+548,Electrical installation,,52.0,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+549,Inspection,,11.7,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+550,Margin,,84.3,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+551,Financing costs,,12.9,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+552,System design,,14.1,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+553,Permitting,,24.4,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+554,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+555,Customer acquisition,,5.0,Total installed cost ,Fig. 3.6,Argentina, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+556,Modules,,339.2,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+557,Inverters,,38.0,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+558,Racking and mounting,,89.3,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+559,Grid connection,,44.0,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+560,Cabling/ wiring,,42.1,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+561,Safety and security,,11.5,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+562,Monitoring and control,,5.1,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+563,Mechanical installation,,87.4,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+564,Electrical installation,,78.3,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+565,Inspection,,29.6,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+566,Margin,,55.1,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+567,Financing costs,,29.4,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+568,System design,,10.7,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+569,Permitting,,37.5,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+570,Incentive application,,11.6,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+571,Customer acquisition,,13.7,Total installed cost ,Fig. 3.6,Australia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+572,Modules,,269.9,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+573,Inverters,,38.8,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+574,Racking and mounting,,65.0,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+575,Grid connection,,66.0,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+576,Cabling/ wiring,,78.5,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+577,Safety and security,,28.2,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+578,Monitoring and control,,4.4,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+579,Mechanical installation,,77.6,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+580,Electrical installation,,68.5,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+581,Inspection,,24.6,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+582,Margin,,55.0,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+583,Financing costs,,43.5,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+584,System design,,6.3,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+585,Permitting,,44.7,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+586,Incentive application,,28.9,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+587,Customer acquisition,,10.1,Total installed cost ,Fig. 3.6,United Kingdom, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+588,Modules,,370.0,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+589,Inverters,,49.9,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+590,Racking and mounting,,46.4,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+591,Grid connection,,38.3,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+592,Cabling/ wiring,,64.2,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+593,Safety and security,,26.8,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+594,Monitoring and control,,17.8,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+595,Mechanical installation,,65.1,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+596,Electrical installation,,49.9,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+597,Inspection,,18.7,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+598,Margin,,87.4,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+599,Financing costs,,7.1,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+600,System design,,19.6,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+601,Permitting,,19.6,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+602,Incentive application,,5.8,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+603,Customer acquisition,,13.4,Total installed cost ,Fig. 3.6,Estonia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+604,Modules,,302.9,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+605,Inverters,,44.9,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+606,Racking and mounting,,57.8,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+607,Grid connection,,55.6,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+608,Cabling/ wiring,,54.9,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+609,Safety and security,,28.5,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+610,Monitoring and control,,7.9,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+611,Mechanical installation,,49.5,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+612,Electrical installation,,40.1,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+613,Inspection,,7.2,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+614,Margin,,121.4,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+615,Financing costs,,93.3,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+616,System design,,2.2,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+617,Permitting,,17.0,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+618,Incentive application,,4.8,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+619,Customer acquisition,,0.3,Total installed cost ,Fig. 3.6,Chile, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+620,Modules,,312.4,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+621,Inverters,,45.8,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+622,Racking and mounting,,80.5,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+623,Grid connection,,87.5,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+624,Cabling/ wiring,,42.5,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+625,Safety and security,,17.4,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+626,Monitoring and control,,7.0,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+627,Mechanical installation,,42.0,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+628,Electrical installation,,35.9,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+629,Inspection,,16.2,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+630,Margin,,101.3,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+631,Financing costs,,10.4,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+632,System design,,20.2,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+633,Permitting,,26.7,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+634,Incentive application,,4.3,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+635,Customer acquisition,,15.1,Total installed cost ,Fig. 3.6,Romania, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+636,Modules,,284.2,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+637,Inverters,,53.0,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+638,Racking and mounting,,68.9,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+639,Grid connection,,85.9,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+640,Cabling/ wiring,,35.7,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+641,Safety and security,,11.0,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+642,Monitoring and control,,7.8,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+643,Mechanical installation,,37.5,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+644,Electrical installation,,40.8,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+645,Inspection,,15.5,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+646,Margin,,110.8,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+647,Financing costs,,7.5,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+648,System design,,12.5,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+649,Permitting,,20.5,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+650,Incentive application,,3.6,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+651,Customer acquisition,,7.9,Total installed cost ,Fig. 3.6,Bulgaria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+652,Modules,,284.4,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+653,Inverters,,38.9,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+654,Racking and mounting,,90.6,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+655,Grid connection,,43.5,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+656,Cabling/ wiring,,61.5,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+657,Safety and security,,10.0,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+658,Monitoring and control,,10.4,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+659,Mechanical installation,,38.8,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+660,Electrical installation,,28.6,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+661,Inspection,,22.7,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+662,Margin,,86.0,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+663,Financing costs,,2.8,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+664,System design,,26.3,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+665,Permitting,,22.0,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+666,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+667,Customer acquisition,,11.9,Total installed cost ,Fig. 3.6,Spain, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+668,Modules,,300.7,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+669,Inverters,,49.7,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+670,Racking and mounting,,62.5,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+671,Grid connection,,65.8,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+672,Cabling/ wiring,,46.5,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+673,Safety and security,,16.6,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+674,Monitoring and control,,4.3,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+675,Mechanical installation,,70.8,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+676,Electrical installation,,49.9,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+677,Inspection,,5.4,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+678,Margin,,51.5,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+679,Financing costs,,9.9,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+680,System design,,10.4,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+681,Permitting,,23.2,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+682,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+683,Customer acquisition,,3.8,Total installed cost ,Fig. 3.6,Italy, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+684,Modules,,191.5,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+685,Inverters,,38.0,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+686,Racking and mounting,,72.7,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+687,Grid connection,,37.1,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+688,Cabling/ wiring,,38.9,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+689,Safety and security,,26.0,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+690,Monitoring and control,,15.5,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+691,Mechanical installation,,99.7,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+692,Electrical installation,,82.4,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+693,Inspection,,8.0,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+694,Margin,,42.5,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+695,Financing costs,,28.0,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+696,System design,,25.2,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+697,Permitting,,24.4,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+698,Incentive application,,7.4,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+699,Customer acquisition,,9.9,Total installed cost ,Fig. 3.6,Brazil, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+700,Modules,,257.7,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+701,Inverters,,40.0,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+702,Racking and mounting,,14.3,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+703,Grid connection,,68.1,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+704,Cabling/ wiring,,20.0,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+705,Safety and security,,11.9,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+706,Monitoring and control,,2.5,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+707,Mechanical installation,,67.8,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+708,Electrical installation,,47.8,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+709,Inspection,,10.4,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+710,Margin,,74.8,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+711,Financing costs,,53.2,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+712,System design,,4.3,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+713,Permitting,,15.2,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+714,Incentive application,,19.2,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+715,Customer acquisition,,8.0,Total installed cost ,Fig. 3.6,China, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+716,Modules,,271.6,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+717,Inverters,,42.8,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+718,Racking and mounting,,92.6,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+719,Grid connection,,17.7,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+720,Cabling/ wiring,,27.2,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+721,Safety and security,,11.5,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+722,Monitoring and control,,3.6,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+723,Mechanical installation,,59.6,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+724,Electrical installation,,92.3,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+725,Inspection,,25.0,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+726,Margin,,48.1,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+727,Financing costs,,2.6,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+728,System design,,6.2,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+729,Permitting,,1.4,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+730,Incentive application,,1.3,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+731,Customer acquisition,,0.0,Total installed cost ,Fig. 3.6,Austria, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+732,Modules,,203.6,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+733,Inverters,,27.7,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+734,Racking and mounting,,27.5,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+735,Grid connection,,33.4,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+736,Cabling/ wiring,,47.8,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+737,Safety and security,,5.4,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+738,Monitoring and control,,2.7,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+739,Mechanical installation,,63.9,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+740,Electrical installation,,49.8,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+741,Inspection,,7.2,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+742,Margin,,65.8,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+743,Financing costs,,45.6,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+744,System design,,11.4,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+745,Permitting,,55.6,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+746,Incentive application,,41.1,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+747,Customer acquisition,,1.4,Total installed cost ,Fig. 3.6,Türkiye, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+748,Modules,,226.2,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+749,Inverters,,29.8,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+750,Racking and mounting,,65.5,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+751,Grid connection,,36.4,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+752,Cabling/ wiring,,52.8,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+753,Safety and security,,7.4,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+754,Monitoring and control,,7.6,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+755,Mechanical installation,,37.8,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+756,Electrical installation,,27.9,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+757,Inspection,,22.0,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+758,Margin,,83.7,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+759,Financing costs,,2.7,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+760,System design,,21.1,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+761,Permitting,,21.5,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+762,Incentive application,,0.0,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+763,Customer acquisition,,10.4,Total installed cost ,Fig. 3.6,Saudi Arabia, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+764,Modules,,196.8,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+765,Inverters,,28.8,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+766,Racking and mounting,,52.4,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+767,Grid connection,,34.6,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+768,Cabling/ wiring,,34.9,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+769,Safety and security,,22.2,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+770,Monitoring and control,,6.5,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+771,Mechanical installation,,46.0,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+772,Electrical installation,,32.8,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+773,Inspection,,7.2,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+774,Margin,,50.9,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+775,Financing costs,,79.4,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+776,System design,,17.5,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+777,Permitting,,15.9,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+778,Incentive application,,8.2,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+779,Customer acquisition,,6.4,Total installed cost ,Fig. 3.6,India, USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+780,5th  percentile,2010.0,0.11,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+781,5th  percentile,2011.0,0.101,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+782,5th  percentile,2012.0,0.105,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+783,5th  percentile,2013.0,0.119,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+784,5th  percentile,2014.0,0.108,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+785,5th  percentile,2015.0,0.108,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+786,5th  percentile,2016.0,0.107,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+787,5th  percentile,2017.0,0.115,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+788,5th  percentile,2018.0,0.124,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+789,5th  percentile,2019.0,0.107,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+790,5th  percentile,2020.0,0.099,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+791,5th  percentile,2021.0,0.108,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+792,5th  percentile,2022.0,0.103,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+793,Weighted average,2010.0,0.138,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+794,Weighted average,2011.0,0.153,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+795,Weighted average,2012.0,0.151,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+796,Weighted average,2013.0,0.164,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+797,Weighted average,2014.0,0.166,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+798,Weighted average,2015.0,0.165,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+799,Weighted average,2016.0,0.167,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+800,Weighted average,2017.0,0.176,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+801,Weighted average,2018.0,0.179,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+802,Weighted average,2019.0,0.175,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+803,Weighted average,2020.0,0.161,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+804,Weighted average,2021.0,0.172,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+805,Weighted average,2022.0,0.169,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+806,95th  percentile,2010.0,0.23,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+807,95th  percentile,2011.0,0.26,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+808,95th  percentile,2012.0,0.256,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+809,95th  percentile,2013.0,0.23,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+810,95th  percentile,2014.0,0.244,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+811,95th  percentile,2015.0,0.29,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+812,95th  percentile,2016.0,0.259,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+813,95th  percentile,2017.0,0.27,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+814,95th  percentile,2018.0,0.269,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+815,95th  percentile,2019.0,0.239,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+816,95th  percentile,2020.0,0.208,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+817,95th  percentile,2021.0,0.213,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+818,95th  percentile,2022.0,0.205,Global weighted-average capacity factors for utility-scale PV systems,Table 3.1,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+819,,2010.0,0.452465162,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+820,,2011.0,0.459734925,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+821,,2012.0,0.278357836,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+822,,2013.0,0.159764393,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+823,,2014.0,0.131541533,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+824,,2015.0,0.113246211,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+825,,2016.0,0.087030841,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+826,,2017.0,0.095384308,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+827,,2018.0,0.078405503,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+828,,2019.0,0.074910534,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+829,,2020.0,0.0564917,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+830,,2021.0,0.044535623,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+831,,2022.0,0.040600067,Weighted-average LCOE ,Fig. 3.11,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+832,,2012.0,0.200578205,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+833,,2013.0,0.148795515,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+834,,2014.0,0.146549488,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+835,,2015.0,0.101618569,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+836,,2016.0,0.093469677,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+837,,2017.0,0.090036543,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+838,,2018.0,0.119484732,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+839,,2019.0,0.095379701,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+840,,2020.0,0.064652204,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+841,,2021.0,0.046149528,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+842,,2022.0,0.042214492,Weighted-average LCOE ,Fig. 3.11,Chile, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+843,,2010.0,0.330995007,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+844,,2011.0,0.287223135,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+845,,2012.0,0.210792229,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+846,,2013.0,0.165432079,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+847,,2014.0,0.123615606,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+848,,2015.0,0.091990763,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+849,,2016.0,0.079772137,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+850,,2017.0,0.069809038,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+851,,2018.0,0.053408421,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+852,,2019.0,0.049452208,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+853,,2020.0,0.042106358,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+854,,2021.0,0.036059337,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+855,,2022.0,0.037186173,Weighted-average LCOE ,Fig. 3.11,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+856,,2010.0,0.42259309,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+857,,2011.0,0.429399219,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+858,,2012.0,0.436460088,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+859,,2013.0,0.258954045,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+860,,2014.0,0.172390627,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+861,,2015.0,0.120915092,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+862,,2016.0,0.095151855,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+863,,2017.0,0.085250178,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+864,,2018.0,0.071946284,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+865,,2019.0,0.066036221,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+866,,2020.0,0.058353578,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+867,,2021.0,0.051748469,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+868,,2022.0,0.062000158,Weighted-average LCOE ,Fig. 3.11,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+869,,2010.0,0.400974471,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+870,,2011.0,0.339016429,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+871,,2012.0,0.273244825,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+872,,2013.0,0.216043983,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+873,,2014.0,0.159218871,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+874,,2015.0,0.126781558,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+875,,2016.0,0.111107812,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+876,,2017.0,0.10126371,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+877,,2018.0,0.097046495,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+878,,2019.0,0.079966977,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+879,,2020.0,0.068560651,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+880,,2021.0,0.062845353,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+881,,2022.0,0.080074019,Weighted-average LCOE ,Fig. 3.11,Germany, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+882,,2010.0,0.375921557,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+883,,2011.0,0.238901447,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+884,,2012.0,0.203304171,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+885,,2013.0,0.202953327,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+886,,2014.0,0.132303038,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+887,,2015.0,0.086620551,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+888,,2016.0,0.081654126,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+889,,2017.0,0.074552677,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+890,,2018.0,0.054104189,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+891,,2019.0,0.042814794,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+892,,2020.0,0.040612355,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+893,,2021.0,0.036749299,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+894,,2022.0,0.03741286,Weighted-average LCOE ,Fig. 3.11,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+895,,2010.0,0.447375866,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+896,,2011.0,0.421137603,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+897,,2012.0,0.214152415,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+898,,2013.0,0.189134243,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+899,,2014.0,0.155782757,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+900,,2017.0,0.0766658,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+901,,2018.0,0.067117737,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+902,,2019.0,0.0620062,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+903,,2020.0,0.058409366,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+904,,2021.0,0.053237129,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+905,,2022.0,0.061481748,Weighted-average LCOE ,Fig. 3.11,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+906,,2011.0,0.468019683,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+907,,2012.0,0.334443367,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+908,,2013.0,0.277330954,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+909,,2014.0,0.245648318,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+910,,2015.0,0.17546622,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+911,,2016.0,0.176468811,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+912,,2017.0,0.139302843,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+913,,2018.0,0.12882674,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+914,,2019.0,0.118373991,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+915,,2020.0,0.110389532,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+916,,2021.0,0.091502427,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+917,,2022.0,0.095791198,Weighted-average LCOE ,Fig. 3.11,Japan, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+918,,2012.0,0.30423665,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+919,,2013.0,0.196371399,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+920,,2014.0,0.140081461,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+921,,2015.0,0.086949402,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+922,,2016.0,0.163241292,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+923,,2017.0,0.147932704,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+924,,2018.0,0.086546463,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+925,,2019.0,0.077980314,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+926,,2020.0,0.057785764,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+927,,2021.0,0.052214672,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+928,,2022.0,0.066150122,Weighted-average LCOE ,Fig. 3.11,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+929,,2016.0,0.125981111,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+930,,2017.0,0.140518395,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+931,,2018.0,0.10676034,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+932,,2019.0,0.101834458,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+933,,2020.0,0.098661824,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+934,,2021.0,0.08207977,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+935,,2022.0,0.089524352,Weighted-average LCOE ,Fig. 3.11,Netherlands, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+936,,2010.0,0.481488318,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+937,,2011.0,0.503777463,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+938,,2012.0,0.202549215,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+939,,2013.0,0.239597691,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+940,,2014.0,0.184473153,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+941,,2015.0,0.169495818,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+942,,2016.0,0.162408995,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+943,,2017.0,0.109273146,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+944,,2018.0,0.08995771,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+945,,2019.0,0.082606788,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+946,,2020.0,0.062840775,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+947,,2021.0,0.058740969,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+948,,2022.0,0.073802804,Weighted-average LCOE ,Fig. 3.11,Republic of Korea, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+949,,2010.0,0.347535556,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+950,,2011.0,0.241796979,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+951,,2012.0,0.194878678,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+952,,2013.0,0.148868489,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+953,,2014.0,0.14308939,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+954,,2015.0,0.08336137,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+955,,2019.0,0.052822124,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+956,,2020.0,0.048437871,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+957,,2021.0,0.05023073,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+958,,2022.0,0.046064044,Weighted-average LCOE ,Fig. 3.11,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+959,,2016.0,0.134306297,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+960,,2017.0,0.127595827,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+961,,2018.0,0.101576239,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+962,,2019.0,0.092050733,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+963,,2020.0,0.070842525,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+964,,2021.0,0.067605204,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+965,,2022.0,0.070819697,Weighted-average LCOE ,Fig. 3.11,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+966,,2010.0,0.569676122,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+967,,2011.0,0.52538833,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+968,,2012.0,0.308540346,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+969,,2013.0,0.249429853,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+970,,2014.0,0.203862517,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+971,,2015.0,0.158504002,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+972,,2016.0,0.150027706,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+973,,2017.0,0.122847946,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+974,,2018.0,0.124882714,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+975,,2019.0,0.092853363,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+976,,2020.0,0.078601413,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+977,,2021.0,0.072350114,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+978,,2022.0,0.075918253,Weighted-average LCOE ,Fig. 3.11,United Kingdom, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+979,,2010.0,0.235299367,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+980,,2011.0,0.280169195,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+981,,2012.0,0.242214266,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+982,,2013.0,0.241237858,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+983,,2014.0,0.164968122,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+984,,2015.0,0.152525695,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+985,,2016.0,0.138486445,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+986,,2017.0,0.100599266,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+987,,2018.0,0.078082795,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+988,,2019.0,0.065681088,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+989,,2020.0,0.064064563,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+990,,2021.0,0.058389301,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+991,,2022.0,0.057792349,Weighted-average LCOE ,Fig. 3.11,United States, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Fig. 3.11,Fig. 3.11
+992,Tower,2011.0,314.7304104,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+993,Tower,2019.0,130.4993508,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+994,Owners costs,2011.0,987.1090146,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+995,Owners costs,2019.0,867.0613778,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+996,Contingencies,2011.0,1520.004823,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+997,Contingencies,2019.0,877.9533795,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+998,Thermal energy storage,2011.0,1763.205595,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+999,Thermal energy storage,2019.0,621.8222588,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1000,Power block,2011.0,2339.019187,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1001,Power block,2019.0,993.1293318,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1002,BoP and engineering,2011.0,3000.668345,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1003,BoP and engineering,2019.0,219.4883449,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1004,Receiver,2011.0,3068.621502,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1005,Receiver,2019.0,876.4627761,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1006,Heliostat field,2011.0,5915.501124,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1007,Heliostat field,2019.0,1767.85318,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1008,Owners costs,2010.0,464.8210439,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1009,Owners costs,2020.0,426.7737145,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1010,Engineering,2010.0,506.5714371,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1011,Engineering,2020.0,180.2967644,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1012,Balance of plant,2010.0,626.2558975,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1013,Balance of plant,2020.0,252.2099121,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1014,Contingencies,2010.0,844.7496217,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1015,Contingencies,2020.0,360.5935288,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1016,Thermal energy storage,2010.0,872.5832172,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1017,Thermal energy storage,2020.0,706.1877539,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1018,HTF system,2010.0,947.7339249,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1019,HTF system,2020.0,502.9267416,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1020,Power block,2010.0,1498.839115,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1021,Power block,2020.0,892.4350737,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1022,Solar field,2010.0,4503.475743,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1023,Solar field,2020.0,1439.716511,Solar Tower total installed cost breakdown ,Fig 5.2,,USD/kW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1024,Tower,2011.0,0.0166446,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1025,Tower,2019.0,0.020537269,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1026,Owners costs,2011.0,0.052203518,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1027,Owners costs,2019.0,0.136453342,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1028,Contingencies,2011.0,0.080385852,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1029,Contingencies,2019.0,0.138167465,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1030,Thermal energy storage,2011.0,0.093247588,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1031,Thermal energy storage,2019.0,0.097858961,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1032,Power block,2011.0,0.123699641,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1033,Power block,2019.0,0.156293222,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1034,BoP and engineering,2011.0,0.158691129,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1035,BoP and engineering,2019.0,0.034541866,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1036,Receiver,2011.0,0.16228485,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1037,Receiver,2019.0,0.137932882,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1038,Heliostat field,2011.0,0.312842822,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1039,Heliostat field,2019.0,0.278214992,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1040,Owners costs,2010.0,0.045281996,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1041,Owners costs,2020.0,0.089636876,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1042,Engineering,2010.0,0.049349241,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1043,Engineering,2020.0,0.037868402,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1044,Balance of plant,2010.0,0.061008677,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1045,Balance of plant,2020.0,0.052972589,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1046,Contingencies,2010.0,0.082293926,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1047,Contingencies,2020.0,0.075736804,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1048,Thermal energy storage,2010.0,0.085005423,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1049,Thermal energy storage,2020.0,0.148323249,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1050,HTF system,2010.0,0.092326464,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1051,HTF system,2020.0,0.10563158,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1052,Power block,2010.0,0.1460141,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1053,Power block,2020.0,0.187441469,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1054,Solar field,2010.0,0.438720174,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1055,Solar field,2020.0,0.302389031,Solar Tower total installed cost breakdown ,Fig 5.2,,% total,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1056,0 to 4 h,,0.376712,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1057,0 to 4 h,,0.43379,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1058,0 to 4 h,,0.186454,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1059,0 to 4 h,,0.35735,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1060,0 to 4 h,,0.273972603,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1061,0 to 4 h,,0.25621,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1062,4 to 8 h,,0.360731,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1063,4 to 8 h,,0.360731,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1064,4 to 8 h,,0.399543,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1065,4 to 8 h,,0.408676,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1066,4 to 8 h,,0.365297,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1067,4 to 8 h,,0.194064,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1068,4 to 8 h,,0.388128,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1069,4 to 8 h,,0.388128,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1070,4 to 8 h,,0.360731,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1071,4 to 8 h,,0.388128,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1072,4 to 8 h,,0.384866,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1073,4 to 8 h,,0.399543,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1074,4 to 8 h,,0.388127854,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1075,4 to 8 h,,0.452968037,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1076,4 to 8 h,,0.365296804,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1077,4 to 8 h,,0.570776256,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1078,4 to 8 h,,0.399543379,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1079,4 to 8 h,,0.399543379,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1080,4 to 8 h,,0.342465753,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1081,4 to 8 h,,0.380517504,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1082,4 to 8 h,,0.358447489,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1083,4 to 8 h,,0.310502283,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1084,4 to 8 h,,0.433789954,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1085,8 to 10,,0.41,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1086,8 to 10,,0.525114,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1087,8 to 10,,0.518888,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1088,8 to 10,,0.410959,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1089,8 to 10,,0.4543379,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1090,8 to 10,,0.357967107,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1091,8 to 10,,0.399543379,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1092,8 to 10,,0.493150685,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1093,10+,,0.631009,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1094,10+,,0.45890411,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1095,10+,,0.551369863,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1096,10+,,0.639269406,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1097,10+,,0.8,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1098,no storage,,0.216895,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1099,no storage,,0.216895,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1100,no storage,,0.228311,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1101,no storage,,0.237443,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1102,no storage,,0.32679,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1103,no storage,,0.273973,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1104,no storage,,0.238584,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1105,no storage,,0.235921,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1106,no storage,,0.296804,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1107,no storage,,0.273973,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1108,no storage,,0.269406,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1109,no storage,,0.261416,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1110,no storage,,0.261416,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1111,no storage,,0.239726,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1112,no storage,,0.228311,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1113,no storage,,0.228311,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1114,no storage,,0.228311,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1115,no storage,,0.271384,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1116,no storage,,0.228311,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1117,no storage,,0.301898185,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1118,no storage,,0.255707763,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1119,no storage,,0.264840183,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1120,no storage,,0.221461187,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1121,no storage,,0.221461187,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1122,no storage,,0.228310502,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1123,no storage,,0.228310502,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1124,no storage,,0.228310502,Capacity factor trends for CSP plants,Fig 5.4,,,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1125,5th percentile,2010.0,50.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1126,Average,2010.0,54.16666667,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1127,95th percentile,2010.0,68.75,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1128,5th percentile,2011.0,19.95,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1129,Average,2011.0,44.53636364,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1130,95th percentile,2011.0,50.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1131,5th percentile,2012.0,29.625,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1132,Average,2012.0,50.125,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1133,95th percentile,2012.0,52.5,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1134,5th percentile,2013.0,43.75,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1135,Average,2013.0,75.3125,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1136,95th percentile,2013.0,163.75,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1137,5th percentile,2014.0,50.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1138,Average,2014.0,165.875,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1139,95th percentile,2014.0,332.55,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1140,5th percentile,2015.0,55.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1141,Average,2015.0,86.66666667,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1142,95th percentile,2015.0,109.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1143,5th percentile,2016.0,44.9,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1144,Average,2016.0,76.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1145,95th percentile,2016.0,143.5,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1146,5th percentile,2017.0,52.5,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1147,Average,2017.0,75.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1148,95th percentile,2017.0,97.5,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1149,5th percentile,2018.0,50.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1150,Average,2018.0,121.4285714,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1151,95th percentile,2018.0,200.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1152,5th percentile,2019.0,45.8,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1153,Average,2019.0,70.44444444,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1154,95th percentile,2019.0,120.6,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1155,5th percentile,2020.0,52.5,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1156,Average,2020.0,75.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1157,95th percentile,2020.0,97.5,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1158,Average,2021.0,110.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1159,Average,2022.0,50.0,Project size ,Fig 5.5,,MW,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1160,5th percentile,2010.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1161,Weighted average,2010.0,3.461538462,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1162,95th percentile,2010.0,7.5,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1163,5th percentile,2011.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1164,Weighted average,2011.0,5.202082058,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1165,95th percentile,2011.0,11.25,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1166,5th percentile,2012.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1167,Weighted average,2012.0,1.960099751,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1168,95th percentile,2012.0,8.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1169,5th percentile,2013.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1170,Weighted average,2013.0,2.742738589,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1171,95th percentile,2013.0,9.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1172,5th percentile,2014.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1173,Weighted average,2014.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1174,95th percentile,2014.0,0.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1175,5th percentile,2015.0,2.875,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1176,Weighted average,2015.0,5.192307692,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1177,95th percentile,2015.0,9.625,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1178,5th percentile,2016.0,2.1,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1179,Weighted average,2016.0,3.4375,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1180,95th percentile,2016.0,8.67,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1181,5th percentile,2017.0,5.5,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1182,Weighted average,2017.0,3.666666667,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1183,95th percentile,2017.0,5.5,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1184,5th percentile,2018.0,4.95,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1185,Weighted average,2018.0,9.117647059,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1186,95th percentile,2018.0,13.8,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1187,5th percentile,2019.0,1.575,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1188,Weighted average,2019.0,4.716088328,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1189,95th percentile,2019.0,9.65,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1190,5th percentile,2020.0,10.15,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1191,Weighted average,2020.0,11.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1192,95th percentile,2020.0,12.85,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1193,Weighted average,2021.0,17.5,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1194,Weighted average,2022.0,9.0,Storage ,Fig 5.5,,hours,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1195,,,0.028,Parabolic trough collectors ,Table 5.1,Argentina, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1196,,,0.03,Parabolic trough collectors ,Table 5.1,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1197,,,0.022,Parabolic trough collectors ,Table 5.1,Brazil, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1198,,,0.024,Parabolic trough collectors ,Table 5.1,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1199,,,0.035,Parabolic trough collectors ,Table 5.1,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1200,,,0.017,Parabolic trough collectors ,Table 5.1,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1201,,,0.028,Parabolic trough collectors ,Table 5.1,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1202,,,0.018,Parabolic trough collectors ,Table 5.1,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1203,,,0.014,Parabolic trough collectors ,Table 5.1,Morocco, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1204,,,0.027,Parabolic trough collectors ,Table 5.1,Russian Federation, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1205,,,0.013,Parabolic trough collectors ,Table 5.1,Saudi Arabia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1206,,,0.014,Parabolic trough collectors ,Table 5.1,South Africa, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1207,,,0.027,Parabolic trough collectors ,Table 5.1,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1208,,,0.02,Parabolic trough collectors ,Table 5.1,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1209,,,0.02,Parabolic trough collectors ,Table 5.1,United Arab Emirates, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1210,,,0.027,Parabolic trough collectors ,Table 5.1,United States of America, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1211,,,0.026,Solar tower ,Table 5.1,Argentina, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1212,,,0.029,Solar tower ,Table 5.1,Australia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1213,,,0.022,Solar tower ,Table 5.1,Brazil, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1214,,,0.02,Solar tower ,Table 5.1,China, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1215,,,0.03,Solar tower ,Table 5.1,France, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1216,,,0.017,Solar tower ,Table 5.1,India, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1217,,,0.026,Solar tower ,Table 5.1,Italy, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1218,,,0.017,Solar tower ,Table 5.1,Mexico, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1219,,,0.013,Solar tower ,Table 5.1,Morocco, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1220,,,0.025,Solar tower ,Table 5.1,Russian Federation, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1221,,,0.012,Solar tower ,Table 5.1,Saudi Arabia, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1222,,,0.013,Solar tower ,Table 5.1,South Africa, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1223,,,0.025,Solar tower ,Table 5.1,Spain, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1224,,,0.018,Solar tower ,Table 5.1,Türkiye, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1225,,,0.022,Solar tower ,Table 5.1,United Arab Emirates, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
+1226,,,0.024,Solar tower ,Table 5.1,United States of America, USD/kWh,IRENA_Renewable_Power_Generation_Costs,Infrastructure,Power Infrastructure
